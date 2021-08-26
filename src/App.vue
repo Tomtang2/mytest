@@ -4,7 +4,7 @@
  * @Author: tangtianbao
  * @Date: 2021-08-24 14:53:53
  * @LastEditors: Please set LastEditors
- * @LastEditTime: 2021-08-26 10:37:31
+ * @LastEditTime: 2021-08-26 11:40:33
 -->
 <template>
   <div id="app">
@@ -26,6 +26,12 @@
         </el-aside>
         <el-container>
           <el-main>
+            <el-button >第一页</el-button>
+            <el-button >第二页</el-button>
+            <el-button >第三页</el-button>
+            <el-button >第一页</el-button>
+            <el-button >第二页</el-button>
+            <el-button >第三页</el-button>
             <el-button >第一页</el-button>
             <el-button >第二页</el-button>
             <el-button >第三页</el-button>
